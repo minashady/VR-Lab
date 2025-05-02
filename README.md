@@ -78,8 +78,8 @@ https://github.com/user-attachments/assets/b3bb9012-4aa5-438d-aacc-5d65ad39cbd7
 
 ## 🎥 Video Demo
 
+https://github.com/user-attachments/assets/b2fabc1d-e268-446a-9ddc-081e02f7107a
 
-Uploading Aero.mp4…
 
 
 ### 🔌 Aircraft Systems
@@ -94,7 +94,11 @@ Uploading Aero.mp4…
 ## 🎥 Video Demo
 
 
-Uploading Systems.mp4…
+
+https://github.com/user-attachments/assets/59d42ec6-726f-4e6d-ad1d-f1f8ec6e1658
+
+
+
 
 
 ### ✈️ Flight Mechanics
@@ -107,16 +111,14 @@ Uploading Systems.mp4…
 
 ## 🎥 Video Demo
 
+
+https://github.com/user-attachments/assets/95c2bd3a-9a86-497e-aecf-3618ed9553dd
+
+
 ---
 
-Uploading Flight-mechanics.mp4…
 
 
-
-
-
-> Each module includes a dedicated video walkthrough to demonstrate its functionality and learning objectives:  
-📺 [Add links to demo videos here]
 
 ---
 
