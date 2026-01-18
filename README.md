@@ -10,16 +10,16 @@ Designed for both individual and local multiplayer experiences, VR Lab empowers 
 
 ## Features
 
-### 🔧 Detailed Textures
+###  Detailed Textures
 -Support extremly detailed textures and 
 
-### 🧑‍🤝‍🧑 Local Multiplayer
+###  Local Multiplayer
 
 - Supports **local multiplayer sessions**, allowing multiple users to explore and learn collaboratively in the same virtual space.
 
 ---
 
-### ✋ Advanced VR Interaction
+###  Advanced VR Interaction
 
 - **Hand Tracking** and **Pose Detection**: Recognizes real-time hand gestures and body poses for natural interaction.
 - **Pointing & Teleportation System**: Seamless navigation and interaction using intuitive gesture controls.
@@ -28,7 +28,7 @@ Designed for both individual and local multiplayer experiences, VR Lab empowers 
 
 ---
 
-### 🧱 Modular Architecture
+###  Modular Architecture
 
 - Built on a **highly modular structure** to support scalability and future extensions.
 - **Subsystem Module**: Innovative and extensible system that allows new components and lessons to be added with minimal overhead.
@@ -36,7 +36,7 @@ Designed for both individual and local multiplayer experiences, VR Lab empowers 
 
 ---
 
-### 🚀 Optimized for VR
+###  Optimized for VR
 
 - Fully optimized for **VR headsets and environments**, offering high frame rates, low latency, and a comfortable user experience.
 - Compatible with leading VR platforms (Meta/Oculus, HTC Vive, etc.).
@@ -45,44 +45,44 @@ Designed for both individual and local multiplayer experiences, VR Lab empowers 
 
 ## Educational Modules
 
-### 🔩 Aircraft Components
+###  Aircraft Components
 
 - Detailed visual breakdown of major aircraft types:
   - **Fixed-wing aircraft**
   - **Rotorcraft (helicopters, etc.)**
  
- ## 🎥 Video Demo
+ ##  Video Demo
 
 
 https://github.com/user-attachments/assets/15a89da5-9ee5-463c-9b94-186655707172
 
 
-### ⚙️ Engines
+###  Engines
 
 - Interactive 3D models of engine types:
   - **Piston engines**
   - **Turboprops**
   - **Rotary engines**
  
- ## 🎥 Video Demo
+ ##  Video Demo
 
 
 https://github.com/user-attachments/assets/b3bb9012-4aa5-438d-aacc-5d65ad39cbd7
 
 
-### 🌬️ Aerodynamics & Control
+###  Aerodynamics & Control
 
 - Demonstrates aerodynamic principles like lift, drag, and thrust.
 - Control surfaces simulation in a 3D space with real-time feedback.
 - Accurate manipulation of aircraft physics.
 
-## 🎥 Video Demo
+##  Video Demo
 
 https://github.com/user-attachments/assets/b2fabc1d-e268-446a-9ddc-081e02f7107a
 
 
 
-### 🔌 Aircraft Systems
+###  Aircraft Systems
 
 - Detailed simulations of key aircraft systems:
   - **Oil systems**
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/b2fabc1d-e268-446a-9ddc-081e02f7107a
   - **Hydraulic systems**
   - **Rotor systems**
 
-## 🎥 Video Demo
+##  Video Demo
 
 
 
@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/59d42ec6-726f-4e6d-ad1d-f1f8ec6e1658
 
 
 
-### ✈️ Flight Mechanics
+###  Flight Mechanics
 
 - Explains key flight dynamics such as:
   - **Lift generation**
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/59d42ec6-726f-4e6d-ad1d-f1f8ec6e1658
   - **Stability and maneuverability**
 - Simulates forces acting on an aircraft during various flight conditions.
 
-## 🎥 Video Demo
+##  Video Demo
 
 
 https://github.com/user-attachments/assets/95c2bd3a-9a86-497e-aecf-3618ed9553dd
